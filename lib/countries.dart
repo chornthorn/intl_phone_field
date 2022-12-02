@@ -296,7 +296,7 @@ const List<Country> countries = [
     code: "KH",
     dialCode: "855",
     minLength: 9,
-    maxLength: 9,
+    maxLength: 11,
   ),
   Country(
     name: "Cameroon",
